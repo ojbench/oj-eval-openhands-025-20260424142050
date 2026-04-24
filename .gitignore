@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.d
+eval
+cheat
+anticheat
+code
+*-submit.cpp
+cmake_install.cmake
+Makefile.bak
